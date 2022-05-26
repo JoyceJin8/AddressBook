@@ -1,0 +1,10 @@
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\bin\Debug\L2_Personal Address Book.exe.config
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\bin\Debug\L2_Personal Address Book.exe
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\bin\Debug\L2_Personal Address Book.pdb
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\obj\Debug\L2_Personal Address Book.csprojAssemblyReference.cache
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\obj\Debug\L2_Personal_Address_Book.Form1.resources
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\obj\Debug\L2_Personal_Address_Book.Properties.Resources.resources
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\obj\Debug\L2_Personal Address Book.csproj.GenerateResource.cache
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\obj\Debug\L2_Personal Address Book.csproj.CoreCompileInputs.cache
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\obj\Debug\L2_Personal Address Book.exe
+C:\Users\joyce\source\repos\L2_Personal Address Book\L2_Personal Address Book\obj\Debug\L2_Personal Address Book.pdb
